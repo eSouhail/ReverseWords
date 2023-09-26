@@ -44,7 +44,4 @@ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
-
-Souhail El Addaoui
 Feel free to modify and customize this README file according to your preferences and add any additional information or instructions that you find relevant for your project.
